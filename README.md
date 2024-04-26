@@ -6,6 +6,8 @@ to start backend  nodemon  or node server.js
 
 to start frontend    npm start 
 
+video of the project = https://drive.google.com/file/d/1f3f1y99AKy-xVgG4lnwlE2NY-hse2x7V/view?usp=drive_link
+
 
 
 
