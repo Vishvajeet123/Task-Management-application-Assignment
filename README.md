@@ -1,3 +1,17 @@
+
+first step 
+npm i , in backend and frontend both 
+
+to start backend  nodemon  or node server.js
+
+to start frontend    npm start 
+
+
+
+
+
+
+
 # Task Management App
 
 # Features of my project 
